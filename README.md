@@ -2,6 +2,10 @@
 
 A concurrent chat application using Go RPC, Goroutines, and Channels with real-time message broadcasting.
 
+## Demo
+
+Watch the demo video: [demo/demo.mp3](demo/demo.mp3)
+
 ## Features
 
 - Real-time message broadcasting
