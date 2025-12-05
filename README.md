@@ -4,7 +4,7 @@ A concurrent chat application using Go RPC, Goroutines, and Channels with real-t
 
 ## Demo
 
-Watch the demo video: [demo/demo.mp3](demo/demo.mp3)
+https://github.com/user-attachments/assets/011c9aee-ceeb-43ee-8743-81c8395cfd19
 
 ## Features
 
@@ -82,7 +82,7 @@ go-realtime-chat/
 ## Testing
 
 1. Start server: go run server.go
-2. Open 2+ terminals
+2. Open 3 terminals like explained in demo video
 3. Run client in each: go run client.go
 4. Type messages and press Enter
 5. Type 'exit' to quit
